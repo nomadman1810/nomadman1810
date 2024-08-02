@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nomadman1810
-- 👀 I’m interested in learning the basics
-- 🌱 I’m currently learning java/python/c++
+- 🌱 I’m currently learning c/c++,javascript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me:- email me
 
