@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nomadman1810
+- 👋 Hi, I’m Shivam
 - 🌱 I’m currently learning c/c++,javascript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me:- email me
